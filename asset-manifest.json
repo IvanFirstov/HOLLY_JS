@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IvanFirstov/HOLLY_JS/static/css/main.e04826b3.css",
+    "main.js": "/IvanFirstov/HOLLY_JS/static/js/main.9fa850ec.js",
+    "static/js/845.2b6cb2c3.chunk.js": "/IvanFirstov/HOLLY_JS/static/js/845.2b6cb2c3.chunk.js",
+    "index.html": "/IvanFirstov/HOLLY_JS/index.html",
+    "main.e04826b3.css.map": "/IvanFirstov/HOLLY_JS/static/css/main.e04826b3.css.map",
+    "main.9fa850ec.js.map": "/IvanFirstov/HOLLY_JS/static/js/main.9fa850ec.js.map",
+    "845.2b6cb2c3.chunk.js.map": "/IvanFirstov/HOLLY_JS/static/js/845.2b6cb2c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04826b3.css",
+    "static/js/main.9fa850ec.js"
+  ]
+}
